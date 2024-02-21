@@ -1,0 +1,24 @@
+.btn {
+    color: rgb(138, 73, 153);
+    background-color: transparent;
+    border: 2px solid rgb(0, 0, 0);
+    margin-left: 20px;
+    border-radius: 8px;
+    padding: 7px;
+    width: 100px;
+}
+
+.btn:hover {
+    background-color: #80ced4b2;
+    color: black;
+    cursor: pointer;
+}
+
+.title {
+    font-size: 30px;
+}
+
+.container {
+    margin-top: 200px;
+    text-align: center;
+}
